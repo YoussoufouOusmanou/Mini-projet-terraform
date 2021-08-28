@@ -1,4 +1,4 @@
-#Mini-projet: Déployez une infra complète
+# Mini-projet: Déployez une infra complète
 
   * Ecrivez un module pour créer une instance ec2 utilisant la dernière version de ubuntu bionic (qui
   s’attachera l’ebs et l’ip publique) dont la taille et le tag seront variabilisés
