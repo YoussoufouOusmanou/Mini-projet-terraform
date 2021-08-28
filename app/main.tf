@@ -9,8 +9,8 @@ terraform {
     bucket     = "terraform-backend-ousmanou"
     key        = "ousmanou-prod.tfstate"
     region     = "us-east-1"
-    access_key = "AKIA3BISRUSJANJTXAIM"
-    secret_key = "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"
+    access_key = "MY_ACCESS"
+    secret_key = "MY_SECRET"
   }
 }
 data "aws_availability_zones" "available" {
