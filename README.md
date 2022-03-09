@@ -9,5 +9,4 @@
   les variables afin de rendre votre application plus dynamique
   * A la fin du déploiement, installez nginx et enregistrez l’ip publique dans un fichier nommé ip_ec2.txt (ces
   éléments sont à intégrer dans le rôle ec2)
-  * A la fin de votre travail, poussez votre rôle sur github et envoyez nous le lien de votre repo à
-  eazytrainingfr@gmail.com et nous vous dirons si votre solution respecte les bonnes pratiques
+  * A la fin de votre travail, poussez votre rôle sur github et envoyez nous le lien de votre repo
